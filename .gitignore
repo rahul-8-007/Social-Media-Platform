@@ -1,0 +1,14 @@
+# Compiled binaries
+social_media
+social_media.exe
+*.o
+
+# Runtime data may contain personal/demo credentials
+users.txt
+posts.txt
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
